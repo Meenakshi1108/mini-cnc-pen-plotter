@@ -11,11 +11,11 @@ Designed and implemented a compact CNC (Computer Numerical Control) plotter usin
 
 ## Demo
 
-[Demo on YouTube](https://www.youtube.com/watch?v=nTrbES8yj90)
+[Watch Demo on YouTube](https://www.youtube.com/watch?v=nTrbES8yj90)
 
 ## Circuit Diagram
 
-<img src="./circuit_diagram/Circuit%20Diagram.jpeg" alt="Circuit Diagram" width="400">
+<img src="./circuit_diagram/Circuit%20Diagram.jpeg" alt="Circuit Diagram" width="300">
 
 ## Additional Resources
 
