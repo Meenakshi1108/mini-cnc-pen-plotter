@@ -13,11 +13,11 @@ Designed and implemented a compact CNC (Computer Numerical Control) plotter usin
 
 ## Circuit Diagram
 
-![Circuit Diagram](./circuit diagram/Circuit%20Diagram.jpeg)
+![Circuit Diagram](circuit diagram/Circuit Diagram.jpeg)
 
 ## Additional Resources
 
-- [Report PDF](Report.pdf) - [Report](Report.pdf)
+- [Report PDF]- [Report](Report.pdf)
 - [GRBL Library GitHub](https://github.com/TGit-Tech/GRBL-28byj-48)
 - [Universal G-Code Sender (UGS)](https://winder.github.io/ugs_website/download/)
 - [Inkscape Installer (.exe)](https://inkscape.org/release/1.0.2/windows/)
