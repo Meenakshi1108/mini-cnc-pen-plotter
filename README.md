@@ -19,7 +19,7 @@ Designed and implemented a compact CNC (Computer Numerical Control) plotter usin
 
 ## Additional Resources
 
-- [Report PDF]- [Report](Report.pdf)
+- [Report PDF](Report.pdf)- [Report](Report.pdf)
 - [GRBL Library GitHub](https://github.com/TGit-Tech/GRBL-28byj-48)
 - [Universal G-Code Sender (UGS)](https://winder.github.io/ugs_website/download/)
 - [Inkscape Installer (.exe)](https://inkscape.org/release/1.0.2/windows/)
