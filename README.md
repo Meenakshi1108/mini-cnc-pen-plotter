@@ -9,15 +9,15 @@ Designed and implemented a compact CNC (Computer Numerical Control) plotter usin
 
 ## Demo
 
-[Watch the Demo on YouTube](https://www.youtube.com/watch?v=nTrbES8yj90)
+[Demo on YouTube](https://www.youtube.com/watch?v=nTrbES8yj90)
 
 ## Circuit Diagram
 
-![Circuit Diagram](./circuit_diagram/Circuit%20Diagram.jpeg)
+![Circuit Diagram](./circuit diagram/Circuit%20Diagram.jpeg)
 
 ## Additional Resources
 
-- [Report PDF](Report.pdf) - [Download Report](Report.pdf)
+- [Report PDF](Report.pdf) - [Report](Report.pdf)
 - [GRBL Library GitHub](https://github.com/TGit-Tech/GRBL-28byj-48)
 - [Universal G-Code Sender (UGS)](https://winder.github.io/ugs_website/download/)
 - [Inkscape Installer (.exe)](https://inkscape.org/release/1.0.2/windows/)
