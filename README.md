@@ -6,6 +6,7 @@ Designed and implemented a compact CNC (Computer Numerical Control) plotter usin
 
 - **Tech Stack:** GRBL firmware, Inkscape (G-code generation)
 - **Hardware:** Arduino Nano (C/C++), Stepper Motors
+![Project Image](Project_images/Image%20(1).jpeg)
 
 ## Demo
 
