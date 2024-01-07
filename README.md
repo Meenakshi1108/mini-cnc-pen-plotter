@@ -8,7 +8,7 @@ Designed and implemented a compact CNC (Computer Numerical Control) plotter usin
 - **Hardware:** Arduino Nano (C/C++), Stepper Motors
   
 <img src="Project_images/Image%20(1).jpeg" alt="Project Image" width="300">
-![Flow Diagram](Flow.jpg)
+![Flow Diagram](./Flow.jpg)
 
 ## Demo
 
