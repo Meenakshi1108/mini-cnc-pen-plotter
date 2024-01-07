@@ -15,7 +15,7 @@ Designed and implemented a compact CNC (Computer Numerical Control) plotter usin
 
 ## Circuit Diagram
 
-![Circuit Diagram](./circuit_diagram/Circuit%20Diagram.jpeg){:width="300"}
+<img src="./circuit_diagram/Circuit%20Diagram.jpeg" alt="Circuit Diagram" width="400">
 
 ## Additional Resources
 
