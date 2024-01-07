@@ -9,7 +9,10 @@ Designed and implemented a compact CNC (Computer Numerical Control) plotter usin
   
 <img src="Project_images/Image%20(1).jpeg" alt="Project Image" width="300">
 
+## Block Diagram:
+
 ![Flow Diagram](./Flow.jpg)
+
 ## Demo
 
 [Watch Demo on YouTube](https://www.youtube.com/watch?v=nTrbES8yj90)
